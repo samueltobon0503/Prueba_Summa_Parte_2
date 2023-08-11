@@ -1,0 +1,4 @@
+Es codigo esta en un archivo de python, se encuentra comentado y con los puntos 
+correspondientes, para ejecutar unicamente se deben quitar las comillas de el punto que se vaya a ejecutar,
+hizo falta le tercera parte del ultimo punto y el parametro de de las dos primeras partes que es que la escalera este
+alineada a la derecha, todo lo demas se encuentra funcional
